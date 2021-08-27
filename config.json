@@ -1,0 +1,8 @@
+{
+    "Broker":"ssl://mqtt.hover.ovh:8883",
+    "Username":"user@gmail.com",
+    "Password":"this_is_no_real_password",
+    "ClientID":"user@gmail.com",
+    "CAPath":"CAfile.pem",
+    "Location":"livingroom"
+}
